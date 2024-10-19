@@ -1,4 +1,4 @@
-# SKIL HARVEST SALES INVENTORY
+#SKIL HARVEST SALES INVENTORY
 
 ### PROJECT OVERVIEW
 
@@ -31,7 +31,12 @@ We performed the following tasks:
 
 This is where we include some basic code used during the data analysis
 
-```Excel=IFS(J2<=20,"LOW",J2<=50,"MEDIUM",J2>50,"HIGH") ### RESULT/FINDINGThe analysis results are summarized as follows:
+```Excel=IFS(J2<=20,"LOW",J2<=50,"MEDIUM",J2>50,"HIGH") ```
+
+
+ ### Result/Finding
+
+The analysis results are summarized as follows:
 
 - The company's sales have been increasing over the past year
 - The company made a lot of sales in 2014 more than in 2015
