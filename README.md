@@ -1,4 +1,4 @@
-#SKIL HARVEST SALES INVENTORY
+## SKIL HARVEST SALES INVENTORY
 
 ### PROJECT OVERVIEW
 
@@ -45,7 +45,9 @@ The analysis results are summarized as follows:
 - The highest buyers are in the Northeast
 - The company has 132 stores and 9 different models
 
-
+### Recommendations
+Based on the analysis, we recommend the following actions:
+- 
 
 
 
