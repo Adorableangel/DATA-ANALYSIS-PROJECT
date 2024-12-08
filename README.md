@@ -45,9 +45,9 @@ The analysis results are summarized as follows:
 - The highest buyers are in the Northeast
 - The company has 132 stores and 9 different models
   
--[The visual that illustrates the data set](https://github.com/user-attachments/assets/e0998cd8-2d70-4c56-8b17-dab7e0e55de1)
+[The visual that illustrates the data set](https://github.com/user-attachments/assets/e0998cd8-2d70-4c56-8b17-dab7e0e55de1)
 
--[The visual that illustrates the data set](https://github.com/user-attachments/assets/d7883d11-5e77-4e4d-a1e5-fce8ee8b1951)
+[The visual that illustrates the data set](https://github.com/user-attachments/assets/d7883d11-5e77-4e4d-a1e5-fce8ee8b1951)
 
 ### Recommendations
 
