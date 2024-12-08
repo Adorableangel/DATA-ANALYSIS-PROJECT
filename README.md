@@ -44,11 +44,11 @@ The analysis results are summarized as follows:
 - Copier Sales which they sell more parts than others
 - The highest buyers are in the Northeast
 - The company has 132 stores and 9 different models
+
+![DASHBOARD SKIL](https://github.com/user-attachments/assets/b380ab16-6d2c-4a41-bb49-43796ae5dd03)
+
+![DASHBOARD KIL 2ND](https://github.com/user-attachments/assets/938f7e0a-a630-4acb-9d96-c0972ee636be)
   
-[The visual that illustrates the data set](https://github.com/user-attachments/assets/e0998cd8-2d70-4c56-8b17-dab7e0e55de1)
-
-[The visual that illustrates the data set](https://github.com/user-attachments/assets/d7883d11-5e77-4e4d-a1e5-fce8ee8b1951)
-
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
