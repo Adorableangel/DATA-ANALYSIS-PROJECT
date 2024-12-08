@@ -44,10 +44,22 @@ The analysis results are summarized as follows:
 - Copier Sales which they sell more parts than others
 - The highest buyers are in the Northeast
 - The company has 132 stores and 9 different models
+  
+-[The visual that illustrates the data set](https://github.com/user-attachments/assets/e0998cd8-2d70-4c56-8b17-dab7e0e55de1)
+
+-[The visual that illustrates the data set](https://github.com/user-attachments/assets/d7883d11-5e77-4e4d-a1e5-fce8ee8b1951)
 
 ### Recommendations
+
 Based on the analysis, we recommend the following actions:
-- 
+- Focus on North West Region: Given its lowest performance, allocate resources and strategies to improve sales in this region.
+- Analyze Line of Business: Conduct a detailed analysis of the different lines of business to identify high-performing and low-performing areas. Focus on optimizing the top performers and addressing the underperformers.
+- Address Underperforming Stores: Develop targeted strategies to improve the performance of the bottom 5 stores. This could include training, incentives, or changes in product offerings.
+- Leverage Top Markets: Capitalize on the top-performing markets by expanding product offerings or marketing efforts.
+- Optimize Line of Business: Focus on improving the performance of Copper Seal, the lowest-performing line of business. This could involve product optimization, marketing campaigns, or cost-reduction strategies.
+
+### Conclusion
+The analysis reveals significant variations in sales performance across regions, product categories, stores, and periods. Some regions and product categories outperform others, while revenue fluctuates over time. To optimize performance, it's crucial to focus on underperforming regions, analyze top-performing stores, address revenue fluctuations, and optimize product categories. Additionally, considering external factors and data granularity can provide valuable insights for targeted improvements.
 
 
 
